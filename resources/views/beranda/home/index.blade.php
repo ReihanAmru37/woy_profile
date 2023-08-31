@@ -67,57 +67,58 @@
         <div class="col d-flex align-items-start">
           <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#bootstrap"/></svg>
           <div>
-            <h4 class="fw-bold mb-0">Featured title</h4>
-            <p>Paragraph of text beneath the heading to explain the heading.</p>
+            <i class="fas fa-pen fa-2x"></i>
+            <h4 class="fw-bold mb-0">Desain Menarik</h4>
           </div>
         </div>
         <div class="col d-flex align-items-start">
           <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#cpu-fill"/></svg>
           <div>
-            <h4 class="fw-bold mb-0">Featured title</h4>
-            <p>Paragraph of text beneath the heading to explain the heading.</p>
+            <i class="fas fa-mobile fa-2x"></i> <i class="fas fa-laptop fa-2x"></i>
+            <h4 class="fw-bold mb-0">Akses Dimana Saja</h4>
           </div>
         </div>
         <div class="col d-flex align-items-start">
           <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#calendar3"/></svg>
           <div>
-            <h4 class="fw-bold mb-0">Featured title</h4>
-            <p>Paragraph of text beneath the heading to explain the heading.</p>
+            <i class="fas fa-envelope fa-2x"></i>
+            <h4 class="fw-bold mb-0">Amplop Digital</h4>
           </div>
         </div>
         <div class="col d-flex align-items-start">
           <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#home"/></svg>
           <div>
-            <h4 class="fw-bold mb-0">Featured title</h4>
-            <p>Paragraph of text beneath the heading to explain the heading.</p>
+            <i class="fas fa-music fa-2x"></i>
+            <h4 class="fw-bold mb-0">Background Music</h4>
           </div>
         </div>
         <div class="col d-flex align-items-start">
           <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#speedometer2"/></svg>
           <div>
-            <h4 class="fw-bold mb-0">Featured title</h4>
-            <p>Paragraph of text beneath the heading to explain the heading.</p>
+            <i class="fas fa-image fa-2x"></i>
+            <h4 class="fw-bold mb-0">Galeri Foto</h4>
           </div>
         </div>
         <div class="col d-flex align-items-start">
           <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#toggles2"/></svg>
           <div>
-            <h4 class="fw-bold mb-0">Featured title</h4>
-            <p>Paragraph of text beneath the heading to explain the heading.</p>
+            <i class="fas fa-heart fa-2x"></i>
+            <h4 class="fw-bold mb-0">Love Story</h4>
           </div>
         </div>
         <div class="col d-flex align-items-start">
           <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#geo-fill"/></svg>
           <div>
-            <h4 class="fw-bold mb-0">Featured title</h4>
-            <p>Paragraph of text beneath the heading to explain the heading.</p>
+            <i class="fas fa-circle-xmark fa-2x"></i>
+            <h4 class="fw-bold mb-0">None</h4>
           </div>
         </div>
         <div class="col d-flex align-items-start">
           <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#tools"/></svg>
           <div>
-            <h4 class="fw-bold mb-0">Featured title</h4>
-            <p>Paragraph of text beneath the heading to explain the heading.</p>
+            <i class="fas fa-circle-xmark fa-2x"></i>
+            <h4 class="fw-bold mb-0">None</h4>
+          </div>
           </div>
         </div>
       </div>
@@ -213,7 +214,8 @@
           <h4 class="my-0 fw-normal">Free</h4>
         </div>
         <div class="card-body">
-          <h1 class="card-title pricing-card-title">$0<small class="text-muted fw-light">/mo</small></h1>
+          <h1 class="card-title pricing-card-title">Rp. 0,-</h1>
+          <h2><small class="text-muted fw-light">/3 Month</small></h2>
           <ul class="list-unstyled mt-3 mb-4">
             <li>10 users included</li>
             <li>2 GB of storage</li>
@@ -230,7 +232,8 @@
           <h4 class="my-0 fw-normal">Pro</h4>
         </div>
         <div class="card-body">
-          <h1 class="card-title pricing-card-title">$15<small class="text-muted fw-light">/mo</small></h1>
+          <h1 class="card-title pricing-card-title">Rp. 0,-</h1>
+          <h2><small class="text-muted fw-light">/3 Month</small></h2>
           <ul class="list-unstyled mt-3 mb-4">
             <li>20 users included</li>
             <li>10 GB of storage</li>
@@ -247,7 +250,8 @@
           <h4 class="my-0 fw-normal">Enterprise</h4>
         </div>
         <div class="card-body">
-          <h1 class="card-title pricing-card-title">$29<small class="text-muted fw-light">/mo</small></h1>
+          <h1 class="card-title pricing-card-title">Rp. 0,-</h1>
+          <h2><small class="text-muted fw-light">/3 Month</small></h2>
           <ul class="list-unstyled mt-3 mb-4">
             <li>30 users included</li>
             <li>15 GB of storage</li>
